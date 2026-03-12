@@ -1,4 +1,4 @@
-📄 Lab Activity 3.1 — Statistical Analysis of Wheat and Rice Production
+## 📄 Lab Activity 3.1 — Statistical Analysis of Wheat and Rice Production
 🎯 Objective
 To perform a statistical analysis of wheat and rice production across various Indian states using NumPy and Pandas, by computing and interpreting Mean, Median, and Mode.
 
